@@ -1,2 +1,2 @@
-prtint("good morning")
-print("presidency university")
+prtint("good morning,presidency university")
+
