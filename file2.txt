@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 prtint("good morning,have a nice day")
+=======
+prtint("good morning,presidency university")
+
+>>>>>>> file2split
